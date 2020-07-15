@@ -20,5 +20,5 @@ $ python3 main.py
 
 ## 3 - Usage
 
-* manual screenshots :
+* manual screenshot :
 #  ![demo](./help.PNG)
