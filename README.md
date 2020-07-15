@@ -25,6 +25,8 @@ $ python3 main.py
 
 ## 4 - Exemple
 
+* soon !
+
 ## 5 - types of GPIO
 
 * Last generation (40 pins) :
