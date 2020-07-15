@@ -28,7 +28,7 @@ $ python3 main.py
 ## 5 - types of GPIO
 
 * Last generation (40 pins) :
-#  ![40 pins](./img/img1.png | width:100)
+#  ![40 pins](./img/img1.png=250x250)
 
 * First generation (26 pins) :
 #  ![26 pins](./img/img2.png)
