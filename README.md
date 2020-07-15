@@ -20,5 +20,5 @@ $ python3 main.py
 
 ## 3 - Usage
 
-* french manual screenshot :
+* Manual screenshot : 🇫🇷
 #  ![demo](./help.PNG)
