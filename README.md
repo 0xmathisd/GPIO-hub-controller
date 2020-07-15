@@ -30,5 +30,7 @@ $ python3 main.py
 * Last generation (40 pins) :
 <img src="./img/img1.png" width="400" height="400" />
 
+<img src="./img/img1.png" width="400" height="400" />
+
 * First generation (26 pins) :
 #  ![26 pins](./img/img2.png)
