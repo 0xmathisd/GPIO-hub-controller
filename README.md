@@ -21,4 +21,4 @@ $ python3 main.py
 ## 3 - Usage
 
 * manual screenshots :
-#  ![demo](./help.png)
+#  ![demo](./help.PNG)
