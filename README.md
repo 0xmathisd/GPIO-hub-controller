@@ -1,7 +1,15 @@
 # GPIO-hub-controller
 A script who managing the GPIO output port of any raspberry pi using Pi.GPIO, different uses are possible: leds, fans, etc.
 
-## 1 - Installation (The schema is as follows)
+## 1 - Required
+
+* Any raspberry pi (first generation with 26 pins / last generation with 40 pins).
+
+* Something to plug on the GPIO port: a led or a fan.
+
+* The RPi.GPIO librarie (original integrated in raspbian).
+
+## 2 - Installation (The schema is as follows)
 
 * Clone the repositorie : https://github.com/p3titcr0c0/GPIO-hub-controller.git
 
@@ -10,12 +18,7 @@ A script who managing the GPIO output port of any raspberry pi using Pi.GPIO, di
 $ python3 main.py
 ```
 
-## 2 - Usage
+## 3 - Usage
 
-## 3 - Screenshots
-
-* Extension popup page:
-#  ![demo](./screens/popup_censored.jpg)
-
-* Example of information received on the database managed under phpMyAdmin:
-#  ![demo](./screens/bdd_censored.jpg)
+* manual screenshots :
+#  ![demo](./screens/help.png)
