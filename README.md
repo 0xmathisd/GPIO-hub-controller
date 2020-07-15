@@ -21,6 +21,14 @@ $ python3 main.py
 ## 3 - Usage
 
 * Manual screenshot : (FR)
-#  ![manual](./help.PNG)
+#  ![manual](./img/help.PNG)
 
 ## 4 - Exemple
+
+## 5 - types of GPIO
+
+* Manual screenshot : (FR)
+#  ![26 pins](./img/img1.PNG)
+
+* Manual screenshot : (FR)
+#  ![40 pins](./img/img2.PNG)
